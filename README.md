@@ -9,11 +9,12 @@ user again will be presented with current and future conditions for that city.
 
 ## Used Libraries
 
-1. [Bootstrap](https://getbootstrap.com/)
+1. [Open Weather Map API](https://openweathermap.org/api/one-call-api)
 2. [JavaScript](https://www.javascript.com/)
 3. [HTML](https://html.com/)
 4. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 5. [jQuery](https://jquery.com/)
+6. [Bootstrap](https://getbootstrap.com/)
 
 ## Homepage
 
